@@ -1,0 +1,8 @@
+Is the sky blue?
+T
+Is the world fair?
+F
+Am I going to be successful?
+T
+Will there be peace in the world?
+F
